@@ -6,7 +6,7 @@
 <body>
     <form action="inserir.php">
         <h1> Cadastro de Estampas</h1>
-        <p>Codigo: <input type="text" name="nome"></p> 
+        <?php /*<p>Codigo: <input type="text" name="nome"></p> */ ?> 
         <p>Descrição: <input type="text" name="nome"></p>
         <button type="submit">Cadastrar estampa</button>
     </form>

@@ -6,7 +6,7 @@
 <body>
     <form action="inserir.php">
         <h1> Cadastro de Cores </h1>
-        <p>Codigo: <input type="number" name="nome" placeholder="Código"></p> 
+        <?php /*<p>Codigo: <input type="number" name="nome" placeholder="Código"></p> */ ?>
         <p>Descrição: <input type="text" name="nome" placeholder="Descrição"></p>
         <button type="submit">Cadastrar</button>
     </form>
